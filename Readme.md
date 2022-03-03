@@ -10,6 +10,8 @@ KiCAD Project
 -------------
 The KiCAD project can be found in the  _RPiPicoKlipperAsciiHMI_ folder
 
+A pdf version of the [schematic](schematic.pdf) can be found in the repository.
+
 Hardware used
 -------------
 See [Hardware](Hardware.md)
