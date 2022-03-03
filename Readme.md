@@ -1,5 +1,11 @@
+>  **DISCLAIMER:**
+>   This project project is made by an hobbyist.
+>   Everything described here is without guarantee, so if you perform something described here, **YOU DO IT ON YOUR OWN RISK**
+>
+
 ASCII Display for Klipper
 =========================
+
 This project contains the ASCII Display that I use with Klipper.
 
 It's controlled by a Rotary Encoder and few Buttons.
