@@ -30,7 +30,7 @@ Two KiCAD projects can be found.
 * _RPiPicoKlipperAsciiHMI_
   * Schematics I used on my breadboard during "proof of concept" phase.
 * _RPiPicoAsciiHMI2_
-  * [Schematics](../RaspberryPicoKlipperHMI/RPiPicoAsciiHMI2/Schematic.pdf) for the HMI that I use with klipper.
+  * [Schematics](https://github.com/seho85/RaspberryPicoKlipperHMI/raw/master/RPiPicoAsciiHMI2/Schematic.pdf)) for the HMI that I use with klipper.
 
 
 See [KiCAD Projects](doc/KiCAD_Projects.md)
