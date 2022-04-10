@@ -8,15 +8,42 @@ ASCII Display for Klipper
 
 This project contains the ASCII Display that I use with Klipper.
 
-It's controlled by a Rotary Encoder and few Buttons.
+It's controlled by a Rotary Encoder and few Buttons and controllable LEDs.
 
-The Display used is an 20x4 Display, optionally the brightness of the backgroundlight LED can be controlled.
+![HMI](doc/img/HMI.jpg)
 
-KiCAD Project
--------------
-The KiCAD project can be found in the  _RPiPicoKlipperAsciiHMI_ folder
+The Display used is an 20x4 Display, the brightness of the backgroundlight LED can be controlled from klipper.
 
-A pdf version of the [schematic](schematic.pdf) can be found in the repository.
+A Raspberry Pi Pico is used as MCU Module.
+
+See [General](doc/General.md) for details.
+
+KiCAD Projects
+--------------
+Two KiCAD projects can be found.
+
+* _RPiPicoKlipperAsciiHMI_
+  * Schematics I used on my breadboard during "proof of concept" phase.
+* _RPiPicoAsciiHMI2_
+  * [Schematics](../RaspberryPicoKlipperHMI/RPiPicoAsciiHMI2/Schematic.pdf) for the HMI that I use with klipper.
+
+
+See [KiCAD Projects](doc/KiCAD_Projects.md)
+
+
+PCBs
+----
+Basically the whole HMI consists of two PCBs.
+
+* The [Button PCB](doc/BTN_LED_PCB.md)
+    * Buttons (with integrated LEDs)
+* The [Main PCB](doc/Main_PCB.md)
+  * all other components.
+
+FreeCAD Projects
+----------------
+In the _FreeCAD_ folder two FreeCAD Projects for the case and the backcover can be found.
+
 
 Hardware used
 -------------

@@ -8,6 +8,13 @@ The DIL-18 IC is an ULN2802A which is used to switch pretty the power over of ev
 
 LEDs on the ButtonPCB and the Backlight of the LCD Module.
 
+Size
+----
+* Height
+  * 24 Holes
+* Width
+  * 51 Holes
+
 Top View
 --------
 ![Top View](img/Main_PCB.jpg)
