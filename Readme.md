@@ -11,9 +11,14 @@ It's controlled by a Rotary Encoder and few Buttons and controllable LEDs.
 
 ![HMI](doc/img/HMI.jpg)
 
-The Display used is an 20x4 Display, the brightness of the backgroundlight LED can be controlled from klipper.
+Features:
+* Raspberry Pi Pico for easy klipper integration
+* 20x4 LCD
+  * Controlled by rotary encoder with push button
+  * Background LED brightness controllable from klipper
+* 8 Pushbuttons for custom actions in klipper
+* 7 LEDs triggerable from klipper.
 
-A Raspberry Pi Pico is used as MCU Module.
 
 See [General](doc/General.md) for details.
 
@@ -46,7 +51,9 @@ In the _FreeCAD_ folder two FreeCAD Projects for the case and the backcover can 
 
 Hardware used
 -------------
-See [Hardware](doc/Hardware.md)
+The major components used for the HMI can be found here [Hardware Listing](doc/Hardware.md)
+
+For a complete listing of all the components please refer to the KiCAD Project.
 
 Klipper Configuration
 ---------------------
