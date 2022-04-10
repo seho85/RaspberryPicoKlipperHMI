@@ -18,6 +18,7 @@ Features:
   * Background LED brightness controllable from klipper
 * 8 Pushbuttons for custom actions in klipper
 * 7 LEDs triggerable from klipper.
+* Single MicroUSB cable for connection to klipper host machine.
 
 
 See [General](doc/General.md) for details.
@@ -54,6 +55,12 @@ Hardware used
 The major components used for the HMI can be found here [Hardware Listing](doc/Hardware.md)
 
 For a complete listing of all the components please refer to the KiCAD Project.
+
+MicroPython
+-----------
+During the creation process of the HMI I created a few MicroPython scripts to test a components.
+
+See [MicroPython Testing Script](doc/MicroPython.md)
 
 Klipper Configuration
 ---------------------
