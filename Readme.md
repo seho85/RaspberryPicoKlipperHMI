@@ -46,12 +46,12 @@ In the _FreeCAD_ folder two FreeCAD Projects for the case and the backcover can 
 
 Hardware used
 -------------
-See [Hardware](Hardware.md)
+See [Hardware](doc/Hardware.md)
 
 Klipper Configuration
 ---------------------
-See [Klipper Config](KlipperConfig.md)
+See [Klipper Config](doc/klipper_config.md)
 
 How to Flash Raspberry Pi Pico
 ------------------------------
-See [Flashing](Flashing.md)
+See [Flashing](doc/Flashing.md)
