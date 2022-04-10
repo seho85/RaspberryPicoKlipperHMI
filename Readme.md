@@ -2,7 +2,6 @@
 >   This project project is made by an hobbyist.
 >   Everything described here is without guarantee, so if you perform something described here, **YOU DO IT ON YOUR OWN RISK**
 >
-
 ASCII Display for Klipper
 =========================
 

@@ -10,8 +10,6 @@ Build klipper for Raspberry Pi Pico
         * Raspberry PI RP2040
     * Communication Interface
         * USB
-    * GPIO Pins to set at micro-controller startup
-        * !gpio0,!gpio1,!gpio5,!gpio4,!gpio3,!gpio2
 4) save configuration
 5) build firmware
     * call _make_
